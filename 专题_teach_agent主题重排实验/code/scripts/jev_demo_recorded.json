@@ -1,0 +1,160 @@
+{
+  "model": "jev-latest",
+  "captured_from": "api.typesafe.ai/v1/systemone",
+  "answers_by_topic": {
+    "模型对未见样本的预测表现": {
+      "candidate_0": {
+        "type": "score",
+        "score": 0.01,
+        "confidence": 0.98,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 0.99,
+          "1": 0.01,
+          "2": 0.0
+        }
+      },
+      "candidate_1": {
+        "type": "score",
+        "score": 1.8,
+        "confidence": 0.7,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 0.01,
+          "1": 0.18,
+          "2": 0.81
+        }
+      },
+      "candidate_2": {
+        "type": "score",
+        "score": 1.99,
+        "confidence": 1.0,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 1.0
+        }
+      },
+      "candidate_3": {
+        "type": "score",
+        "score": 0.9,
+        "confidence": 0.7,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 0.15,
+          "1": 0.8,
+          "2": 0.05
+        }
+      },
+      "candidate_4": {
+        "type": "score",
+        "score": 0.86,
+        "confidence": 0.62,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 0.2,
+          "1": 0.75,
+          "2": 0.05
+        }
+      }
+    },
+    "校园网账号如何重置": {
+      "candidate_0": {
+        "type": "score",
+        "score": 0.0,
+        "confidence": 1.0,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 1.0,
+          "1": 0.0,
+          "2": 0.0
+        }
+      },
+      "candidate_1": {
+        "type": "score",
+        "score": 0.0,
+        "confidence": 1.0,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 1.0,
+          "1": 0.0,
+          "2": 0.0
+        }
+      },
+      "candidate_2": {
+        "type": "score",
+        "score": 0.01,
+        "confidence": 0.98,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 0.99,
+          "1": 0.01,
+          "2": 0.0
+        }
+      },
+      "candidate_3": {
+        "type": "score",
+        "score": 0.01,
+        "confidence": 1.0,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 1.0,
+          "1": 0.0,
+          "2": 0.0
+        }
+      },
+      "candidate_4": {
+        "type": "score",
+        "score": 0.01,
+        "confidence": 1.0,
+        "legend": {
+          "0": "没有讲该主题",
+          "1": "相关但不是同一主题",
+          "2": "直接讲该主题"
+        },
+        "probabilities": {
+          "0": 1.0,
+          "1": 0.0,
+          "2": 0.0
+        }
+      }
+    }
+  }
+}
